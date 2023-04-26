@@ -3,7 +3,8 @@ Opa, eu sou o Flávio!
 📆 19 Anos<br>
 ⚙ Front-end Developer<br>
 🔭 Atualmente trabalhando em projetos pessoais<br>
-🎓 Estudando HTML, CSS e JavaScript<br><br>
+🧠 Estudando HTML, CSS e JavaScript<br>
+🎓 Cursando Análise e Desenvolvimento de Sistemas na [Unicesumar](https://www.unicesumar.edu.br/home/)<br><br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyflxvio&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whyflxvio&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
