@@ -1,4 +1,4 @@
-Opa, eu sou o Flávio!
+Olá, eu sou o Flávio!
 
 📆 19 Anos<br>
 ⚙ Front-end Developer<br>
